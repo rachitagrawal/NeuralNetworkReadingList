@@ -7,5 +7,6 @@ This document captures all the good reading list in the field of Neural Network
 
 ## Network Architecture
 
-###Inception
-* History --> 
+### Inception
+* Short history of the Inception deep learning architecture. [here](http://nicolovaligi.com/history-inception-deep-learning-architecture.html)
+* 
